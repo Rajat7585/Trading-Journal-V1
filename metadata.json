@@ -1,0 +1,6 @@
+{
+  "name": "TradeArchive",
+  "description": "Professional Smart Money Concepts (SMC) Trading Journal with portfolio equity PnL, confluence logging, and live analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
